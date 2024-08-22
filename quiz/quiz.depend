@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1724299809 source:d:\c++ pra\quiz\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<windows.h>
+
